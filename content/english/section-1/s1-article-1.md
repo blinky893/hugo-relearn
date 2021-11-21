@@ -39,7 +39,7 @@ Information
 {{% /notice %}}
 
 
-{{% expand "Extra information" %}}
+{{% expand "Expand me!" %}}
 It's not really extra, is it.
 {{% /expand %}}
 
