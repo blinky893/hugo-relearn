@@ -5,11 +5,25 @@ title = "Welcome!"
 # Welcome
 
 
-This is the English home page 
+## This is the English home page. 
 
-It's made in dir `contents`, from file `_index.en.md`
+{{% notice tip info "Other languages"  %}}
 
+If you look in the sidebar/navigation menu, you'll see that the UI content there is in English.
 
-Create an _index.md document in content folder and fill it with Markdown content
-Create an index.html file in the static folder and fill the file with HTML content
-Configure your server to automatically redirect home page to one your documentation page
+**To choose another language**
+
+- Use the language dropdown in the sidebar/navigation menu to choose another language
+- change the url to have `/es` at the end
+
+{{% /notice %}}
+
+This page is made in the directory `contents`, from file `_index.en.md`
+
+{{% notice note "A note from the developer"  %}}
+
+- Create an _index.md document in content folder and fill it with Markdown content
+- Create an index.html file in the static folder and fill the file with HTML content
+- Configure your server to automatically redirect home page to one your documentation page
+
+{{% /notice %}}
