@@ -1,5 +1,6 @@
 baseURL = 'http://example.org/'
-languageCode = 'en-us'
+languageCode = 'en-gb'
+defaultContentLanguage = 'en'
 title = 'Oxford English Hub Support'
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-relearn-main"
@@ -13,13 +14,49 @@ disableLandingPageButton = false
 # Hide Next and Previous page buttons normally displayed full height beside content
 disableNextPrev = true
 
+[Languages]
+
+# English
+  
+  # Main settings
+  [Languages.en]
+    title = "Help and Support"
+    contentDir = 'content/english'
+    weight = 1
+    languageName = "English"
+    landingPageURL = "/"
+    landingPageName = "<i class='fas fa-home'></i> Home"
+
+ # Menu settings
+  [[Languages.en.menu.shortcuts]]
+    name = "<i class='fas fa-headset'></i> Contact us"
+    identifier = "en"
+    url = "https://github.com/McShelby/hugo-theme-relearn"
+    weight = 10
+
+
+  # Main settings
+  [Languages.es]
+    title = "Ayuda y apoyo"
+    contentDir = 'content/spanish'
+    weight = 1
+    languageName = "Espanol"
+    landingPageURL = "/es/"
+    landingPageName = "<i class='fas fa-home'></i> Hogar"
+
+ # Menu settings
+  [[Languages.es.menu.shortcuts]]
+    name = "<i class='fas fa-headset'></i> Contáctenos"
+    identifier = "es"
+    url = "https://github.com/McShelby/hugo-theme-relearn"
+    weight = 10
 
 # For creating the 'More' menu at the bottom of the sidebar
-[[menu.shortcuts]]
-name = "<i class='fas fa-headset'></i> Contact us"
-identifier = "ds"
-url = "https://github.com/McShelby/hugo-theme-relearn"
-weight = 10
+# [[menu.shortcuts]]
+# name = "<i class='fas fa-headset'></i> Contact us"
+# identifier = "ds"
+# url = "https://github.com/McShelby/hugo-theme-relearn"
+# weight = 10
 
 # [[menu.shortcuts]]
 # name = "<i class='fas fa-fw fa-camera'></i> Showcases"
