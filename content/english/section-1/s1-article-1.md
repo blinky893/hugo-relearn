@@ -40,7 +40,7 @@ Information
 
 
 {{% expand "Expand me!" %}}
-It's not really extra, is it.
+Nothing to see here. But there could be...
 {{% /expand %}}
 
 ## A YouTube video

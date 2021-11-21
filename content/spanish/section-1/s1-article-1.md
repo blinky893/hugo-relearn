@@ -4,11 +4,12 @@ date: 2021-11-20T18:10:13Z
 draft: false
 ---
 
-## Article 1 (Spanish)
+## artículo 1 (Spanish)
 
-This is the article 1 in section 1.
+Este es el artículo 1 de la sección 1.
 
-It's made in dir `section-1`, from file `s1-article-1.md`
+Está hecho en `section-1`, desde el archivo `s1-article-1.md` 
+
 
 {{% notice info "Information"  %}}
 Information 
