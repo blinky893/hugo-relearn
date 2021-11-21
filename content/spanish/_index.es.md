@@ -1,12 +1,13 @@
 +++
 title = "How can we help?"
+langauge = "es"
 +++
 
-This is the English home page 
+# Bienvenido
 
-It's made in dir `contents`, from file `_index.en.md`
+This is the Spanish home page 
 
-
+It's made in dir `contents`, from file `_index.es.md`
 
 
 Create an _index.md document in content folder and fill it with Markdown content
