@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sección 1 on Ayuda y apoyo</title>
+    <link>https://optimistic-kirch-6f75ac.netlify.app/es/section-1/</link>
+    <description>Recent content in Sección 1 on Ayuda y apoyo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 20 Nov 2021 18:10:13 +0000</lastBuildDate><atom:link href="https://optimistic-kirch-6f75ac.netlify.app/es/section-1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Section 1: Article 1</title>
+      <link>https://optimistic-kirch-6f75ac.netlify.app/es/section-1/s1-article-1/</link>
+      <pubDate>Sat, 20 Nov 2021 18:10:13 +0000</pubDate>
+      <guid>https://optimistic-kirch-6f75ac.netlify.app/es/section-1/s1-article-1/</guid>
+      <description>Article 1 (Spanish) This is the article 1 in section 1.
+It&amp;rsquo;s made in dir section-1, from file s1-article-1.md
+InformationInformation
+ Step 1 Step 2 Step 3   TipInformation
+ Step 1 Step 2 Step 3   WarningInformation
+ Step 1 Step 2 Step 3     Extra information  It&amp;rsquo;s not really extra, is it.
+  A YouTube video Watch the video and learn interesting stuff.</description>
+    </item>
+    <item>
+      <title>Section 1: Article 2</title>
+      <link>https://optimistic-kirch-6f75ac.netlify.app/es/section-1/s1-article-2/</link>
+      <pubDate>Sat, 20 Nov 2021 18:10:13 +0000</pubDate>
+      <guid>https://optimistic-kirch-6f75ac.netlify.app/es/section-1/s1-article-2/</guid>
+      <description>Article 2 (Spanish) This is article 2 in section 1.
+It&amp;rsquo;s made in dir section-1, from file s1-article-2.md</description>
+    </item>
+  </channel>
+</rss>

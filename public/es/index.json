@@ -1,0 +1,65 @@
+[
+  {
+    "content": "Bienvenido This is the Spanish home page\nIt’s made in dir contents, from file _index.es.md\nCreate an _index.md document in content folder and fill it with Markdown content Create an index.html file in the static folder and fill the file with HTML content Configure your server to automatically redirect home page to one your documentation page\n",
+    "description": "",
+    "tags": null,
+    "title": "How can we help?",
+    "uri": "/es/"
+  },
+  {
+    "content": "Bienvenido to Sección 1 This is the Spanish home page for Section 1\nIt’s made in dir section-1, from file _index.md\n",
+    "description": "",
+    "tags": null,
+    "title": "Sección 1",
+    "uri": "/es/section-1/"
+  },
+  {
+    "content": "Welcome to Sección 2 (Spainish) This is the home page for Section 2\nIt’s made in dir section-2, from file _index.md\n",
+    "description": "",
+    "tags": null,
+    "title": "Sección 2",
+    "uri": "/es/section-2/"
+  },
+  {
+    "content": "Article 1 (Spanish) This is the article 1 in section 1.\nIt’s made in dir section-1, from file s1-article-1.md\nInformationInformation\n Step 1 Step 2 Step 3   TipInformation\n Step 1 Step 2 Step 3   WarningInformation\n Step 1 Step 2 Step 3     Extra information  It’s not really extra, is it.\n  A YouTube video Watch the video and learn interesting stuff.   ",
+    "description": "",
+    "tags": null,
+    "title": "Section 1: Article 1",
+    "uri": "/es/section-1/s1-article-1/"
+  },
+  {
+    "content": "Article 2 (Spanish) This is article 2 in section 1.\nIt’s made in dir section-1, from file s1-article-2.md\n",
+    "description": "",
+    "tags": null,
+    "title": "Section 1: Article 2",
+    "uri": "/es/section-1/s1-article-2/"
+  },
+  {
+    "content": "Article 1 (Spanish) This is article 1 in section 2.\nIt’s made in dir section-2, from file s2-article-1.md\n",
+    "description": "",
+    "tags": null,
+    "title": "Section 2: Article 1",
+    "uri": "/es/section-2/s2-article-1/"
+  },
+  {
+    "content": "Article 2 (Spanish) This is article 2 in section 1.\nIt’s made in dir section-2, from file s2-article-2.md\n",
+    "description": "",
+    "tags": null,
+    "title": "Section 2: Article 2",
+    "uri": "/es/section-2/s2-article-2/"
+  },
+  {
+    "content": "",
+    "description": "",
+    "tags": null,
+    "title": "Categories",
+    "uri": "/es/categories/"
+  },
+  {
+    "content": "",
+    "description": "",
+    "tags": null,
+    "title": "Tags",
+    "uri": "/es/tags/"
+  }
+]

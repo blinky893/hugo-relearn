@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>How can we help? on Ayuda y apoyo</title>
+    <link>https://optimistic-kirch-6f75ac.netlify.app/es/</link>
+    <description>Recent content in How can we help? on Ayuda y apoyo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 20 Nov 2021 18:10:13 +0000</lastBuildDate><atom:link href="https://optimistic-kirch-6f75ac.netlify.app/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sección 1</title>
+      <link>https://optimistic-kirch-6f75ac.netlify.app/es/section-1/</link>
+      <pubDate>Sat, 20 Nov 2021 18:10:13 +0000</pubDate>
+      <guid>https://optimistic-kirch-6f75ac.netlify.app/es/section-1/</guid>
+      <description>Bienvenido to Sección 1 This is the Spanish home page for Section 1
+It&amp;rsquo;s made in dir section-1, from file _index.md</description>
+    </item>
+    <item>
+      <title>Sección 2</title>
+      <link>https://optimistic-kirch-6f75ac.netlify.app/es/section-2/</link>
+      <pubDate>Sat, 20 Nov 2021 18:10:13 +0000</pubDate>
+      <guid>https://optimistic-kirch-6f75ac.netlify.app/es/section-2/</guid>
+      <description>Welcome to Sección 2 (Spainish) This is the home page for Section 2
+It&amp;rsquo;s made in dir section-2, from file _index.md</description>
+    </item>
+  </channel>
+</rss>
