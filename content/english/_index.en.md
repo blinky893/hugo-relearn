@@ -7,7 +7,11 @@ title = "Welcome!"
 
 ## This is the English home page. 
 
-{{% notice tip info "Other languages"  %}}
+Navigate through different Help topics using the menu in the sidebar, or use the language selector to see this content in Spanish.
+
+You may recognize the font as Fira Sans.
+
+{{% notice tip "Other languages"  %}}
 
 If you look in the sidebar/navigation menu, you'll see that the UI content there is in English.
 

@@ -5,24 +5,29 @@ langauge = "es"
 
 # Bienvenido
 
-### This is the Spanish home page.
+## Esta es la página de inicio en inglés.
 
-{{% notice tip "Other languages"  %}}
+Navegue por los diferentes temas de Ayuda usando el menú en la barra lateral, o use el selector de idioma para ver este contenido en español.
 
-If you look in the sidebar/navigation menu, you'll see that the UI content there is also in Spanish.
+Puede reconocer la fuente como Fira Sans.
 
-**To choose another language**
-- Use the language dropdown in the sidebar/navigation menu to choose another language
-- change the url by removing the `/es`
+{{% notice tip "Otros idiomas" %}}
+
+Si miras en la barra lateral / menú de navegación, verás que el contenido de la interfaz de usuario está en inglés.
+
+**Para elegir otro idioma**
+
+- Use el menú desplegable de idioma en la barra lateral / menú de navegación para elegir otro idioma
+- cambia la URL para que tenga `/ es` al final
 
 {{% /notice %}}
 
-This page is made in the directory `contents`, from file `_index.es.md`
+Esta página está hecha en el directorio `contenido`, del archivo` _index.en.md`
 
-{{% notice note "A note from the developer"  %}}
+{{% notice note "Una nota del desarrollador"%}}
 
-- Create an _index.md document in content folder and fill it with Markdown content
-- Create an index.html file in the static folder and fill the file with HTML content
-- Configure your server to automatically redirect home page to one your documentation page
+- Cree un documento _index.md en la carpeta de contenido y rellénelo con contenido de Markdown
+- Cree un archivo index.html en la carpeta estática y llene el archivo con contenido HTML
+- Configure su servidor para redirigir automáticamente la página de inicio a una de su página de documentación
 
 {{% /notice %}}
