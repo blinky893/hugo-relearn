@@ -1,4 +1,5 @@
-baseURL = 'http://example.org/'
+# baseURL = 'http://example.org/'
+baseURL = 'https://optimistic-kirch-6f75ac.netlify.app'
 languageCode = 'en-gb'
 defaultContentLanguage = 'en'
 title = 'Oxford English Hub Support'
