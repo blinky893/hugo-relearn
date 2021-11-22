@@ -1,10 +1,10 @@
 +++
 chapter = true
 # pre = "<b>1. </b>"
-title = "Mi cuenta"
+title = "Su cuenta"
 +++
 
-## Bienvenido a la Sección 1: Mi cuenta
+# Su cuenta
 
 Esta es la página de inicio de la Sección 1
 

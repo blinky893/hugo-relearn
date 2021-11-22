@@ -2,9 +2,16 @@
 title = "Support"
 +++
 
-# Support for MyExampleSite.com
+# Your support site
 
-## How can we help? 
+## About this site 
+
+This site is built using a technology called **Hugo**. 
+
+Hugo is one of the most popular tools for building static websites. It's used by governments, businesses, and organization around the world to serve their content. 
+
+[See a list of organziations who use Hugo.](https://gohugo.io/showcase/)
+
 
 **This is the home page in English.**
 

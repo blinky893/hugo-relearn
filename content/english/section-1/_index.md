@@ -1,10 +1,10 @@
 +++
 chapter = true
 # pre = "<b>1. </b>"
-title = "My account"
+title = "Your account"
 +++
 
-## Welcome to Section 1: My account
+# Your account
 
 This is the home page for Section 1
 
