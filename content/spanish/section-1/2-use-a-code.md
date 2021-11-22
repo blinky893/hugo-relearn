@@ -7,7 +7,7 @@ draft: false
 Estas instrucciones explican cómo utilizar un código de Example.com.
 
 {{% notice info "Information" %}}
-Todavía no puedes usar un código **Tipo 1**en **Example.com**.
+Todavía no puedes usar un código **Tipo 1** en **Example.com**.
 
 Puede utilizar otros códigos en [www.google.com](https://www.google.com)
 
@@ -27,18 +27,17 @@ Tu código está en uno de estos lugares:
 - un correo electrónico
 - una hoja de cálculo
 
-¿Sin código? [Contact us](www.google.com).
+¿Sin código? [contactarnos](https://www.google.com).
 
 ## ¿Cómo uso mi código?
 
 1. Vaya a [Example.com/use-code](https://Example.com/use-code)
 2. Siga las instrucciones en pantalla. (Es posible que deba iniciar sesión o crear un nombre de usuario de Example.com).
 
-![To use a code, you can also choose Learning then Use a code](https://placehold.co/600x400)
-
+![Placeholder image](https://placehold.co/600x400)
 *Título de la imagen*
 
-### Aprende más:
+#### Aprende más
 
 - Enlace al artículo de ayuda X
 - Enlace al artículo de ayuda Y

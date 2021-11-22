@@ -10,15 +10,12 @@ draft: false
 4. Follow the instructions on screen.
 
 ![Placeholder image](https://placehold.co/600x400)
-
 *Caption for image*
 
 ![Placeholder image](https://placehold.co/600x400)
-
 *Caption for image*
 
-
-### Learn more:
+#### Learn more:
 
 - Link to help article X
 - Link to help article Y

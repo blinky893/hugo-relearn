@@ -34,9 +34,10 @@ No code? [Contact us](www.google.com).
 1. Go to [Example.com/use-code](https://Example.com/use-code)
 2. Follow the instructions on screen. (You may need to sign in or create an Example.com username.)
 
-![To use a code, you can also choose Learning then Use a code](https://placehold.co/600x400)
+![Placeholder image](https://placehold.co/600x400)
+*Caption for image*
 
-### Learn more:
+#### Learn more:
 
 - Link to help article X
 - Link to help article Y

@@ -8,11 +8,10 @@ draft: true
 
 Este es el artículo 1 de la sección 1.
 
-Está hecho en `section-1`, desde el archivo `s1-article-1.md` 
-
+Está hecho en `section-1`, desde el archivo `s1-article-1.md`
 
 {{% notice info "Information"  %}}
-Information 
+Information
 
 1. Step 1
 1. Step 2
@@ -21,24 +20,22 @@ Information
 {{% /notice %}}
 
 {{% notice tip "Tip"  %}}
-Information 
+Information
 
 1. Step 1
 1. Step 2
 1. Step 3
 
 {{% /notice %}}
-
 
 {{% notice warning "Warning"  %}}
-Information 
+Information
 
 1. Step 1
 1. Step 2
 1. Step 3
 
 {{% /notice %}}
-
 
 {{% expand "Extra information" %}}
 It's not really extra, is it.

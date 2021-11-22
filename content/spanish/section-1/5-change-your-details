@@ -5,7 +5,7 @@ draft: false
 ---
 
 {{% notice info "Information" %}}
-¿No puedes iniciar sesión? Consulta [¿Problema con la contraseña?] (https://example.com).
+¿No puedes iniciar sesión? Consulta [¿Problema con la contraseña?] (<https://example.com>).
 {{% /notice %}}
 
 Estas instrucciones explican cómo puede cambiar su información personal en el área **Editar mi cuenta** después de iniciar sesión.
@@ -21,10 +21,9 @@ Estas instrucciones explican cómo puede cambiar su información personal en el 
     - **Cerrar** para cerrar sin guardar
 
 ![Placeholder image](https://placehold.co/600x400)
-
 *Título de la imagen*
 
-### Learn more:
+#### Aprende más
 
-- Link to help article X
-- Link to help article Y
+- Enlace al artículo de ayuda X
+- Enlace al artículo de ayuda Y

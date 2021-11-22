@@ -21,12 +21,13 @@ If you create a new Example.com username, you will not be able to access materia
 If you would like access to these materials in Example.com, please continue to use your Example.com username.
 {{% /notice %}}
 
-1. **Sign in**with your Example.com username. No Example.com username? Choose **Register**.
+1. **Sign in** with your Example.com username. No Example.com username? Choose **Register**.
 2. Complete the form.
-3. Choose **Create my account**then select **Continue**.
+3. Choose **Create my account** then select **Continue**.
 4. You’ll see the sign in screen. Enter your username and password to sign in.
 
-![Register or sign in to Example.com to get started.](https://placehold.co/600x400)
+![Placeholder image](https://placehold.co/600x400)
+*Caption for image*
 
 ### Learn more
 

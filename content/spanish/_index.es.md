@@ -1,11 +1,11 @@
 +++
-title = "How can we help?"
+title = "Bienvenido"
 langauge = "es"
 +++
 
 # Bienvenido
 
-## Esta es la página de inicio en inglés.
+## Esta es la página de inicio en español.
 
 Navegue por los diferentes temas de Ayuda usando el menú en la barra lateral, o use el selector de idioma para ver este contenido en español.
 

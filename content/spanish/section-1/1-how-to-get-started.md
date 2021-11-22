@@ -21,17 +21,15 @@ Si crea un nuevo nombre de usuario de Example.com, no podrá acceder a los mater
 Si desea acceder a estos materiales en Example.com, continúe usando su nombre de usuario de Example.com.
 {{% /notice %}}
 
-1. **Inicie sesión**con su nombre de usuario de Example.com. ¿No tienes un nombre de usuario de Example.com? Elija **Registrarse**.
+1. **Inicie sesión** con su nombre de usuario de Example.com. ¿No tienes un nombre de usuario de Example.com? Elija **Registrarse**.
 2. Complete el formulario.
-3. Elija **Crear mi cuenta**y luego seleccione **Continuar**.
+3. Elija **Crear mi cuenta** y luego seleccione **Continuar**.
 4. Verá la pantalla de inicio de sesión. Introduzca su nombre de usuario y contraseña para iniciar sesión.
 
 ![Regístrese o inicie sesión en Example.com para comenzar.](https://placehold.co/600x400)
-
-
 *Título de la imagen*
 
-### Aprende más:
+#### Aprende más
 
 - Enlace al artículo de ayuda X
 - Enlace al artículo de ayuda Y

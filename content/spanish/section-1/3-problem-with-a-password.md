@@ -1,5 +1,5 @@
 ---
-title: "Problem with a password?"
+title: "¿Problema con la contraseña?"
 date: 2021-11-20T18:10:13Z
 draft: false
 ---
@@ -10,15 +10,12 @@ draft: false
 4. Siga las instrucciones en pantalla.
 
 ![Placeholder image](https://placehold.co/600x400)
-
 *Título de la imagen*
 
 ![Placeholder image](https://placehold.co/600x400)
-
 *Título de la imagen*
 
-
-### Aprende más:
+#### Aprende más
 
 - Enlace al artículo de ayuda X
 - Enlace al artículo de ayuda Y

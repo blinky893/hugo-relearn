@@ -10,7 +10,7 @@ Your username is usually your Example.com email address.
 
 If you don’t know your email address or have another problem, you can contact us.
 
-### Learn more:
+#### Learn more:
 
 - Link to help article X
 - Link to help article Y

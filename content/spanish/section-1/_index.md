@@ -1,7 +1,7 @@
 +++
 chapter = true
-pre = "<b>1. </b>"
-title = "Sección 1"
+# pre = "<b>1. </b>"
+title = "Mi cuenta"
 +++
 
 ## Bienvenido a la Sección 1
@@ -15,4 +15,4 @@ Mire este video que le brinda una descripción general de la sección o elija un
 {{< youtube id="w7Ft2ymGmfc" title="Cute cats" >}}
 ---
 
-Está hecho en el directorio `section-1`, del archivo` _index.md`
+Está hecho en el directorio `section-1`, del archivo`_index.md`

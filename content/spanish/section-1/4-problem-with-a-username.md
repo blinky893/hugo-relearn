@@ -1,5 +1,5 @@
 ---
-title: "Problem with a username?"
+title: "¿Problema con un nombre de usuario?"
 date: 2021-11-20T18:10:13Z
 draft: false
 ---
@@ -9,9 +9,9 @@ Su nombre de usuario suele ser su dirección de correo electrónico de Example.c
 
 {{% /notice %}}
 
-Si no conoce su dirección de correo electrónico o tiene otro problema, puede contactarnos.
+Si no conoce su dirección de correo electrónico o tiene otro problema, puede [contactarnos](https://www.google.com).
 
-### Aprende más:
+#### Aprende más
 
 - Enlace al artículo de ayuda X
 - Enlace al artículo de ayuda Y
