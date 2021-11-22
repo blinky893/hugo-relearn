@@ -10,7 +10,7 @@ This is the home page for Section 1
 
 ## A YouTube video
 
-Watch the video and learn interesting stuff.
+Watch this video that gives you an overview of the section, or choose a topic from the navigation menu.
 
 {{< youtube id="w7Ft2ymGmfc" title="Cute cats" >}}
 
