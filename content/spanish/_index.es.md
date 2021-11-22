@@ -3,9 +3,16 @@ title = "Apoyo"
 langauge = "es"
 +++
 
-# Bienvenido
+# Apoyo por MyExampleSite.com
 
-## Esta es la página de inicio en español.
+## ¿Cómo podemos ayudar?
+
+**Esta es la página de inicio en español.**
+
+- costo
+- seguridad
+- popularidad
+- velocidad y sencillez
 
 Navegue por los diferentes temas de Ayuda usando el menú en la barra lateral, o use el selector de idioma para ver este contenido en español.
 

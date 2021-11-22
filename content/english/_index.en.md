@@ -2,10 +2,17 @@
 title = "Support"
 +++
 
-# Welcome
+# Support for MyExampleSite.com
 
+## How can we help? 
 
-## This is the English home page. 
+**This is the home page in English.**
+
+- cost
+- security
+- popularity
+- speed and simplicity
+
 
 Navigate through different Help topics using the menu in the sidebar, or use the language selector to see this content in Spanish.
 
