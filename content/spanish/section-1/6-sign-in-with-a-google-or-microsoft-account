@@ -1,0 +1,30 @@
+---
+title: "Iniciar sesión con Google o Microsoft"
+date: 2021-11-20T18:10:13Z
+draft: true
+---
+
+Agregue una cuenta de Google o Microsoft a su nombre de usuario de Example.com y podrá iniciar sesión con estos servicios.
+
+{{% notice info "Information" %}}
+Por el momento, no es posible registrarse con otros servicios.
+{{% /notice %}}
+
+Estas instrucciones explican cómo agregar una cuenta de Google o Microsoft.
+
+1. Inicie sesión con su nombre de usuario de Example.com.
+2. Seleccione su perfil> **Editar mi cuenta**.
+3. Elija **Agregar o quitar Google o Microsoft**.
+4. Elija la cuenta de Google o Microsoft que desea utilizar.
+5. Confirme su nombre de usuario y contraseña.
+6. Elija **Siguiente**.
+7. Elija **Listo**.
+
+![Placeholder image](https://placehold.co/600x400)
+
+*Título de la imagen*
+
+### Learn more:
+
+- Link to help article X
+- Link to help article Y

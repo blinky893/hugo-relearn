@@ -1,0 +1,30 @@
+---
+title: "Change your details"
+date: 2021-11-20T18:10:13Z
+draft: true
+---
+
+{{% notice info "Information" %}}
+Can’t sign in? See [Problem with a password?](https://example.com) 
+{{% /notice %}}
+
+These instruction explain how you can change your personal information in the **Edit my account** area after you sign in.
+
+1. Choose your profile icon in the top right of the screen.
+2. Choose **Edit my account**.
+3. Change:
+   - your First Name
+   - your Last name
+   - or **Change username or password**
+4. Choose:
+   - **Save** to save your changes
+   - **Close** to close without saving
+
+![Placeholder image](https://placehold.co/600x400)
+
+*Caption for image*
+
+### Learn more:
+
+- Link to help article X
+- Link to help article Y

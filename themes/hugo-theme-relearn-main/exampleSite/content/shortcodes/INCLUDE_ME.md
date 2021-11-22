@@ -3,7 +3,7 @@ You can add:
 - multiple paragraphs
 - bullet point lists
 - _emphasized_, **bold** and even **_bold emphasized_** text
-- [links](https://example.com)
+- [links](https://Example.com)
 - other shortcodes besides `include`
 - etc.
 

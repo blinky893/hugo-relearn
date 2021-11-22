@@ -1,0 +1,30 @@
+---
+title: "Cambia tus detalles"
+date: 2021-11-20T18:10:13Z
+draft: true
+---
+
+{{% notice info "Information" %}}
+¿No puedes iniciar sesión? Consulta [¿Problema con la contraseña?] (https://example.com).
+{{% /notice %}}
+
+Estas instrucciones explican cómo puede cambiar su información personal en el área **Editar mi cuenta** después de iniciar sesión.
+
+1. Elija el icono de su perfil en la parte superior derecha de la pantalla.
+2. Elija **Editar mi cuenta**.
+3. Cambiar:
+    - su nombre
+    - tu apellido
+    - o **Cambiar nombre de usuario o contraseña**
+4. Elija:
+    - **Guardar** para guardar sus cambios
+    - **Cerrar** para cerrar sin guardar
+
+![Placeholder image](https://placehold.co/600x400)
+
+*Título de la imagen*
+
+### Learn more:
+
+- Link to help article X
+- Link to help article Y

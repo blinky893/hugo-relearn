@@ -4,8 +4,15 @@ pre = "<b>1. </b>"
 title = "Sección 1"
 +++
 
-## Bienvenido to Sección 1
+## Bienvenido a la Sección 1
 
-This is the Spanish home page for Section 1 
+Esta es la página de inicio de la Sección 1
 
-It's made in dir `section-1`, from file `_index.md`
+## Un video de YouTube
+
+Mire el video y aprenda cosas interesantes.
+
+{{< youtube id="w7Ft2ymGmfc" title="Cute cats" >}}
+---
+
+Está hecho en el directorio `section-1`, del archivo` _index.md`

@@ -70,10 +70,10 @@ Note that some of these parameters are explained in details in other sections of
 
 ## A word on running your site in a subfolder
 
-The theme runs best if your site is installed in the root of your webserver. If your site is served from a subfolder, eg. `https://example.com/mysite/`, you have to set the following lines to your `config.toml`
+The theme runs best if your site is installed in the root of your webserver. If your site is served from a subfolder, eg. `https://Example.com/mysite/`, you have to set the following lines to your `config.toml`
 
 ````toml
-baseURL = "https://example.com/mysite/"
+baseURL = "https://Example.com/mysite/"
 canonifyURLs = true
 ````
 

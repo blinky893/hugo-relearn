@@ -1,0 +1,30 @@
+---
+title: "Sign in with Google or Microsoft"
+date: 2021-11-20T18:10:13Z
+draft: true
+---
+
+Add a Google or Microsoft account to your Example.com username and you can sign in with these services.
+
+{{% notice info "Information" %}}
+At the moment, it is not possible to sign in with other services.
+{{% /notice %}}
+
+These instructions explain how to add a Google or Microsoft account.
+
+1. Sign in with your Example.com username.
+2. Select your profile > **Edit my account**.
+3. Choose **Add/Remove Google or Microsoft**.
+4. Choose the Google or Microsoft account you want to use.
+5. Confirm your username and password.
+6. Choose **Next**.
+7. Choose **Done**.
+
+![Placeholder image](https://placehold.co/600x400)
+
+*Add a Google or Microsoft account in **Edit my account**.*
+
+### Learn more:
+
+- Link to help article X
+- Link to help article Y

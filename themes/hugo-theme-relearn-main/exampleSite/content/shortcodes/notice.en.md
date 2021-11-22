@@ -29,7 +29,7 @@ You can add:
 - multiple paragraphs
 - bullet point lists
 - _emphasized_, **bold** and even ***bold emphasized*** text
-- [links](https://example.com)
+- [links](https://Example.com)
 - other shortcodes besides `notice`
 - etc.
 
@@ -50,7 +50,7 @@ You can add:
 - multiple paragraphs
 - bullet point lists
 - _emphasized_, **bold** and even ***bold emphasized*** text
-- [links](https://example.com)
+- [links](https://Example.com)
 - other shortcodes besides `notice`
 - etc.
 
@@ -73,7 +73,7 @@ You can add:
 - multiple paragraphs
 - bullet point lists
 - _emphasized_, **bold** and even ***bold emphasized*** text
-- [links](https://example.com)
+- [links](https://Example.com)
 - other shortcodes besides `notice`
 - etc.
 
@@ -94,7 +94,7 @@ You can add:
 - multiple paragraphs
 - bullet point lists
 - _emphasized_, **bold** and even ***bold emphasized*** text
-- [links](https://example.com)
+- [links](https://Example.com)
 - other shortcodes besides `notice`
 - etc.
 
@@ -117,7 +117,7 @@ You can add:
 - multiple paragraphs
 - bullet point lists
 - _emphasized_, **bold** and even ***bold emphasized*** text
-- [links](https://example.com)
+- [links](https://Example.com)
 - other shortcodes besides `notice`
 - etc.
 
@@ -138,7 +138,7 @@ You can add:
 - multiple paragraphs
 - bullet point lists
 - _emphasized_, **bold** and even ***bold emphasized*** text
-- [links](https://example.com)
+- [links](https://Example.com)
 - other shortcodes besides `notice`
 - etc.
 
@@ -161,7 +161,7 @@ You can add:
 - multiple paragraphs
 - bullet point lists
 - _emphasized_, **bold** and even ***bold emphasized*** text
-- [links](https://example.com)
+- [links](https://Example.com)
 - other shortcodes besides `notice`
 - etc.
 
@@ -182,7 +182,7 @@ You can add:
 - multiple paragraphs
 - bullet point lists
 - _emphasized_, **bold** and even ***bold emphasized*** text
-- [links](https://example.com)
+- [links](https://Example.com)
 - other shortcodes besides `notice`
 - etc.
 
