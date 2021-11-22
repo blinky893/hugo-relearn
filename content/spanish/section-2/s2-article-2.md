@@ -1,11 +1,9 @@
 ---
-title: "Section 2: Article 2"
+title: "Usando la aplicación - a2"
 date: 2021-11-20T18:10:13Z
 draft: false
 ---
 
-## Article 2 (Spanish)
+Este es el artículo 2 de la sección: **Usando la aplicación**.
 
-This is article 2 in section 1.
-
-It's made in dir `section-2`, from file `s2-article-2.md`
+Está hecho en el directorio `section-2`, desde el archivo `s2-article-1.md`

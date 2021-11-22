@@ -4,7 +4,7 @@ chapter = true
 title = "My account"
 +++
 
-## Welcome to Section 1
+## Welcome to Section 1: My account
 
 This is the home page for Section 1
 
@@ -12,6 +12,6 @@ This is the home page for Section 1
 
 Watch this video that gives you an overview of the section, or choose a topic from the navigation menu.
 
-{{< youtube id="w7Ft2ymGmfc" title="Cute cats" >}}
+{{< youtube id="uHKfrz65KSU" title="Cute cats" >}}
 
 It's made in dir `section-1`, from file `_index.md`
