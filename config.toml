@@ -2,7 +2,7 @@
 baseURL = 'https://optimistic-kirch-6f75ac.netlify.app'
 languageCode = 'en-gb'
 defaultContentLanguage = 'en'
-title = 'Oxford English Hub Support'
+title = 'Support'
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-relearn-main"
 
