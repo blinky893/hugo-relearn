@@ -1,13 +1,14 @@
 ---
 title: "Use a code"
 date: 2021-11-20T18:10:13Z
+weight = 2
 draft: false
 ---
 
 These instructions explain how to use an Example.com code.
 
 {{% notice info "Information" %}}
-You can't use an **Type 1**code on **Example.com**yet.
+You can't use an **Type 1** code on **Example.com**yet.
 
 You can use other codes at [www.google.com](https://www.google.com)
 

@@ -1,6 +1,7 @@
 ---
 title: "How to get started"
 date: 2021-11-20T18:10:13Z
+weight = 1
 draft: false
 ---
 

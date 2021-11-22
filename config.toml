@@ -32,7 +32,7 @@ disableNextPrev = true
   [[Languages.en.menu.shortcuts]]
     name = "<i class='fas fa-headset'></i> Contact us"
     identifier = "en"
-    url = "https://github.com/McShelby/hugo-theme-relearn"
+    url = "https://www.google.com"
     weight = 10
 
 
@@ -43,13 +43,13 @@ disableNextPrev = true
     weight = 1
     languageName = "Espanol"
     landingPageURL = "/es/"
-    landingPageName = "<i class='fas fa-home'></i> Hogar"
+    landingPageName = "<i class='fas fa-home'></i> Inicio"
 
  # Menu settings
   [[Languages.es.menu.shortcuts]]
     name = "<i class='fas fa-headset'></i> Contáctenos"
     identifier = "es"
-    url = "https://github.com/McShelby/hugo-theme-relearn"
+    url = "https://www.google.es"
     weight = 10
 
 # For creating the 'More' menu at the bottom of the sidebar
