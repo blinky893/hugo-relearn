@@ -2,6 +2,7 @@
 chapter = true
 # pre = "<b>2. </b>"
 title = "Using the app"
+weight = 2
 +++
 
 ## Welcome to section 2: Using the app

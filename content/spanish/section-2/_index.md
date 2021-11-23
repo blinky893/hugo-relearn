@@ -2,6 +2,7 @@
 chapter = true
 # pre = "<b>2. </b>"
 title = "Usando la aplicación"
+weight = 2
 +++
 
 ## Bienvenido a la Sección 2: Usando la aplicación
