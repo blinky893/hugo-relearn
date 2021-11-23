@@ -43,7 +43,3 @@ Fonts, colours,  layouts, and URLs can all be customised to suit your brand so c
 ## And it's all for free 🥳
 
 Visit the sample content page to see the range of content and formats you can use or visit the FAQ  page to learn more.
-
-{{% button {{< ref "content\english\section-1\1-how-to-get-started.md" >}} %}} See sample content {{% /button %}}
-
-{{% button {{< ref "content\english\section-1\2-use-a-code.md" >}} %}} FAQ {{% /button %}}
