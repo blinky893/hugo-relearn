@@ -1,9 +1,9 @@
-+++
-title = "Sign in with Google or Microsoft"
-date = 2021-11-20T18:10:13Z
-weight = 6
-draft = false
-+++
+---
+title: "Sign in with Google or Microsoft"
+date: 2021-11-20T18:10:13Z
+weight: 6
+draft: false
+---
 
 Add a Google or Microsoft account to your Example.com username and you can sign in with these services.
 

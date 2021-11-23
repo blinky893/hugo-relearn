@@ -1,9 +1,9 @@
-+++
-title = "Cómo empezar"
-date = 2021-11-20T18:10:13Z
-weight = 1
-draft = false
-+++
+---
+title: "Cómo empezar"
+date: 2021-11-20T18:10:13Z
+weight:  1
+draft: false
+---
 
 {{% notice info "Information" %}}
 Puede iniciar sesión en Example.com con el mismo nombre de usuario y contraseña que usa para cualquiera de estos sitios web:

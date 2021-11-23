@@ -1,9 +1,9 @@
-+++
-title = "Use a code"
-date = 2021-11-20T18:10:13Z
-weight = 2
-draft = false
-+++
+---
+title: "Use a code"
+date: 2021-11-20T18:10:13Z
+weight: 2
+draft: false
+---
 
 These instructions explain how to use an Example.com code.
 

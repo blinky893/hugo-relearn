@@ -1,10 +1,9 @@
-+++
-title = "¿Problema con un nombre de usuario?"
-date = 2021-11-20T18:10:13Z
-weight = 4
-draft = false
-+++
-
+---
+title: "¿Problema con un nombre de usuario?"
+date: 2021-11-20T18:10:13Z
+weight: 4
+draft: false
+---
 
 {{% notice info "Information" %}}
 Su nombre de usuario suele ser su dirección de correo electrónico de Example.com.
