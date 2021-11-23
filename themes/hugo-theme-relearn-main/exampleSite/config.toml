@@ -18,7 +18,7 @@ relativeURLs = true
   disableLandingPageButton = true
   disableMermaid = false
   titleSeparator = "::"
-  themeVariant = "relearn"
+  themeVariant = "blue"
   disableSeoHiddenPages = true
 
 [outputs]
