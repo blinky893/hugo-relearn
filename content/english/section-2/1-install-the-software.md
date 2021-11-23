@@ -1,9 +1,9 @@
----
-title: "Install the software"
-date: 2021-11-20T18:10:13Z
-weight: 1
-draft: false
----
++++
+title = "Install the software"
+date = 2021-11-20T18:10:13Z
+weight = 1
+draft = false
++++
 
 It's easy to install the software if you follow these steps.
 

@@ -1,9 +1,9 @@
----
-title: "Cómo empezar"
-date: 2021-11-20T18:10:13Z
-weight:  1
-draft: false
----
++++
+title = "Cómo empezar"
+date = 2021-11-20T18:10:13Z
+weight =  1
+draft = false
++++
 
 {{% notice tip "Tip" %}}
 Puede iniciar sesión o registrarse con una cuenta de Google o Microsoft.
