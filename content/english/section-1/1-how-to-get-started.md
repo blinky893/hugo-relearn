@@ -5,18 +5,7 @@ weight: 1
 draft: false
 ---
 
-{{% notice info "Information" %}}
-You can sign in to Example.com with the same username and password you use for any of these websites:
-
-- Example.com/learn
-- Example.com/ebooks
-- Example.com/words
-- Example.com/challenges
-- Example.com/club
-
-{{% /notice %}}
-
-{{% notice warning "Important" %}}
+{{% notice info "Important" %}}
 If you create a new Example.com username, you will not be able to access materials you have on other Example.com accounts in Example.com.
 
 If you would like access to these materials in Example.com, please continue to use your Example.com username.
@@ -27,10 +16,8 @@ If you would like access to these materials in Example.com, please continue to u
 3. Choose **Create my account** then select **Continue**.
 4. You’ll see the sign in screen. Enter your username and password to sign in.
 
-![Placeholder image](https://placehold.co/600x400)
-*Caption for image*
+{{< figure src="https://placehold.co/600x400" caption="Caption for image" >}}
 
-### Learn more
-
+**Learn more**
 - Link to help article X
 - Link to help article Y

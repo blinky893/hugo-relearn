@@ -2,7 +2,7 @@
 title: "¿Problema con un nombre de usuario?"
 date: 2021-11-20T18:10:13Z
 weight: 4
-draft: false
+draft: true
 ---
 
 {{% notice info "Information" %}}

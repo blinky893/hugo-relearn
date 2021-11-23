@@ -7,12 +7,10 @@ weight = 1
 
 # Your account
 
-This is the home page for Section 1
+In this section you can learn how to create and manage your account.
 
-## A YouTube video
+## Overview
 
-Watch this video that gives you an overview of the section, or choose a topic from the navigation menu.
+Choose a topic from the menu or watch the video to get some quick tips.
 
-{{< youtube id="uHKfrz65KSU" title="Cute cats" >}}
-
-It's made in dir `section-1`, from file `_index.md`
+{{< youtube id="iIQVRzatb50" title="Help & Documentation" >}}

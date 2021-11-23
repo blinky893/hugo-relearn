@@ -1,12 +1,16 @@
 +++
 chapter = true
 # pre = "<b>2. </b>"
-title = "Using the app"
+title = "Using the software"
 weight = 2
 +++
 
-## Welcome to section 2: Using the app
+## Using the software
 
-This is the home page for Section 2: Using the app 
+In this section you can learn how to use the software.
 
-It's made in dir `section-2`, from file `_index.md`
+## Overview
+
+Choose a topic from the menu or watch the video to get some quick tips.
+
+{{< youtube id="J7ODeZK8TDI" title="Translation & localization" >}}

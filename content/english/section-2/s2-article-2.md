@@ -2,7 +2,7 @@
 title: "Using the app - a2"
 date: 2021-11-20T18:10:13Z
 weight: 2
-draft: false
+draft: true
 ---
 
 ## Article 2

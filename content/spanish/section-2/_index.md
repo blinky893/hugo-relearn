@@ -1,12 +1,14 @@
 +++
 chapter = true
 # pre = "<b>2. </b>"
-title = "Usando la aplicación"
+title = "Usando el software"
 weight = 2
 +++
 
-## Bienvenido a la Sección 2: Usando la aplicación
+## Usando el software
 
-Esta es la página de inicio de la Sección 2
+En esta sección puede aprender a utilizar el software.
 
-Está hecho en el directorio `section-2`, del archivo` _index.md`
+## Visión general
+
+Elija un tema del menú o mire el video para obtener algunos consejos rápidos.
