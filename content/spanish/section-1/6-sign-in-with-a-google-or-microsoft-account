@@ -1,9 +1,9 @@
----
-title: "Iniciar sesión con Google o Microsoft"
-date: 2021-11-20T18:10:13Z
-weight: 6
-draft: false
----
++++
+title = "Iniciar sesión con Google o Microsoft"
+date = 2021-11-20T18:10:13Z
+weight = 6
+draft = false
++++
 
 Agregue una cuenta de Google o Microsoft a su nombre de usuario de Example.com y podrá iniciar sesión con estos servicios.
 

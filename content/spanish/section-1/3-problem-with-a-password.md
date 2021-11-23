@@ -1,9 +1,9 @@
----
-title: "¿Problema con la contraseña?"
-date: 2021-11-20T18:10:13Z
-weight: 3
-draft: false
----
++++
+title = "¿Problema con la contraseña?"
+date = 2021-11-20T18:10:13Z
+weight = 3
+draft = false
++++
 
 1. Ir a Example.com
 2. Elija **Iniciar sesión**

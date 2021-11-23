@@ -1,7 +1,7 @@
 ---
-title: "Usando la aplicación - a2"
-date: 2021-11-20T18:10:13Z
-draft: false
+title = "Usando la aplicación - a2"
+date = 2021-11-20T18:10:13Z
+draft = false
 ---
 
 Este es el artículo 2 de la sección: **Usando la aplicación**.

@@ -1,9 +1,9 @@
----
-title: "How to get started"
-date: 2021-11-20T18:10:13Z
-weight: 1
-draft: false
----
++++
+title = "How to get started"
+date = 2021-11-20T18:10:13Z
+weight = 1
+draft = false
++++
 
 {{% notice info "Information" %}}
 You can sign in to Example.com with the same username and password you use for any of these websites:

@@ -1,9 +1,9 @@
----
-title: "Cambia tus detalles"
-date: 2021-11-20T18:10:13Z
-weight: 5
-draft: false
----
++++
+title = "Cambia tus detalles"
+date = 2021-11-20T18:10:13Z
+weight = 5
+draft = false
++++
 
 {{% notice info "Information" %}}
 ¿No puedes iniciar sesión? Consulta [¿Problema con la contraseña?] (<https://example.com>).
