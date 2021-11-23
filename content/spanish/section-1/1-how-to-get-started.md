@@ -5,21 +5,8 @@ weight:  1
 draft: false
 ---
 
-{{% notice info "Information" %}}
-Puede iniciar sesión en Example.com con el mismo nombre de usuario y contraseña que usa para cualquiera de estos sitios web:
-
-- Example.com/learn
-- Example.com/ebooks
-- Example.com/words
-- Example.com/challenges
-- Example.com/club
-
-{{% /notice %}}
-
-{{% notice warning "Important" %}}
-Si crea un nuevo nombre de usuario de Example.com, no podrá acceder a los materiales que tenga en otras cuentas de Example.com en Example.com.
-
-Si desea acceder a estos materiales en Example.com, continúe usando su nombre de usuario de Example.com.
+{{% notice tip "Tip" %}}
+Puede iniciar sesión o registrarse con una cuenta de Google o Microsoft.
 {{% /notice %}}
 
 1. **Inicie sesión** con su nombre de usuario de Example.com. ¿No tienes un nombre de usuario de Example.com? Elija **Registrarse**.

@@ -1,6 +1,6 @@
 +++
 chapter = true
-# pre = "<b>2. </b>"
+pre = "<b>2. </b>"
 title = "Using the software"
 weight = 2
 +++

@@ -5,10 +5,8 @@ weight: 1
 draft: false
 ---
 
-{{% notice info "Important" %}}
-If you create a new Example.com username, you will not be able to access materials you have on other Example.com accounts in Example.com.
-
-If you would like access to these materials in Example.com, please continue to use your Example.com username.
+{{% notice tip "Tip" %}}
+You can sign in or sign up using a Google or Microsoft account.
 {{% /notice %}}
 
 1. **Sign in** with your Example.com username. No Example.com username? Choose **Register**.

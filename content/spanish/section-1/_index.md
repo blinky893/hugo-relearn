@@ -1,6 +1,6 @@
 +++
 chapter = true
-# pre = "<b>1. </b>"
+pre = "<b>1. </b>"
 title = "Su cuenta"
 weight = 1
 +++
