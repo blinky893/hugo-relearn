@@ -36,7 +36,9 @@ Alternativamente, puede cargar manualmente sus archivos a su servidor web.
 ## Puede coincidir con tu marca 🌈
 Las fuentes, los colores, los diseños y las URL se pueden personalizar para adaptarse a su marca para que los clientes tengan una experiencia perfecta. Los 'temas' prediseñados significan que gran parte del trabajo pesado de diseño y desarrollo ya se ha realizado.
 
-[Explore temas para los sitios de Hugo](https://themes.gohugo.io/tags/docs/)
+Los temas alternativos pueden ser [Dot](https://themes.gohugo.io/themes/dot-hugo-documentation-theme/) o [Doks](https://doks.netlify.app/).
+
+[Ver todos los demás temas](https://themes.gohugo.io//tags/docs/)
 
 ## Y todo es gratis 🥳
 Visite las páginas de contenido de muestra para ver la variedad de contenido y formatos que puede usar o visite la página de preguntas frecuentes para obtener más información.

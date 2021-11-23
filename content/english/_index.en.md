@@ -35,9 +35,11 @@ Alternatively, you can manually upload your files to your web server.
 ## It can match your brand 🌈
 Fonts, colours,  layouts, and URLs can all be customised to suit your brand so customers have a seamless experience. Pre-designed 'themes' mean a lot of the heavy design and development work has already been done.
 
-The theme of this site is [Relearn](). Other alternatives might be [Ace](https://docs.vantage-design.com/ace/) or [Doks](https://doks.netlify.app/)
+The theme of this site is [Relearn](). 
 
-[See other themes](https://themes.gohugo.io//tags/docs/)
+Alternative themes might be [Dot](https://themes.gohugo.io/themes/dot-hugo-documentation-theme/) or [Doks](https://doks.netlify.app/).
+
+[See all other themes](https://themes.gohugo.io//tags/docs/)
 
 ## And it's all for free 🥳
 Visit the sample content pages to see the range of content and formats you can use or visit the FAQ page to learn more.
